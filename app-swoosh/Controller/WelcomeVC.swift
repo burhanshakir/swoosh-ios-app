@@ -13,6 +13,7 @@ class WelcomeVC: UIViewController
     
     @IBOutlet weak var bgImg: UIImageView!
     @IBOutlet weak var swoosh: UIImageView!
+    @IBOutlet weak var goAllInText: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
